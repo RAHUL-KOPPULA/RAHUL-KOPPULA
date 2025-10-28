@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Data Analyst with a knack for extracting actionable insights from complex datasets. I specialize in data visualization, statistical analysis, and machine learning to help businesses make data-driven decisions.
+I'm a passionate Data Scientist  with a knack for extracting actionable insights from complex datasets. I specialize in data visualization, statistical analysis, and machine learning to help businesses make data-driven decisions.
 
 
 ## 🌐 Socials:
